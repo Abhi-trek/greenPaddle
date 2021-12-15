@@ -4,7 +4,7 @@
 * Harshil Shah - hvshah_b20@ce.vjti.ac.in
 * Chaitya Vora - cnvora_b20@ce.vjti.ac.in
 * Jinay Mehta - jrmehta_b20@ce.vjti.ac.in
-* Abhishek Patingrao - abpatingrao_b20@pe.vjti.ac.in
+* Abhishek Patingrao -itsabhi.rao@gmail.com
 ## Mentors
 * Vaishnavi Shah
 * Siddharth Shah
