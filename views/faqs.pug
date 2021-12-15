@@ -1,0 +1,66 @@
+extends base.pug
+
+block scripts
+    script(src='../static/faqs.js')
+    script(src='../static/index.js')
+block style 
+    style
+        include ../static/faqs.css
+        include ../static/style.css
+
+block content 
+
+    .faqs
+        h1 Frequently Asked Questions
+        .box
+            h2 Subscription
+            .info
+                p What is cycle subscription?
+                button#btn1.button(onclick='hide1()') A
+                p#container1.para
+                    | - Select a cycle of your choice and pay rent to use it. You own the cycle for the duration you subscribe it for.
+            .info
+                p What is included in subscription amount?
+                button#btn2.button(onclick='hide2()') A
+                p#container2.para - Your subscription amount includes a cycle, a lock and all taxes.
+        .box
+            h2 Booking and Payment
+            .info
+                p What documents are required for booking cycle?
+                button#btn3.button(onclick='hide3()') A
+                p#container3.para
+                    | - Front and back photo of your original aadhar card and your passport size photo.      
+            .info
+                p How do I book cycle?
+                button#btn4.button(onclick='hide4()') A
+                p#container4.para
+                    | - Pay Rs.500 to reserve your cycle. Remaining amount is to be paid on delivery. 
+            .info
+                p How do I cancel my booking? Are there any cancellation charges?
+                button#btn5.button(onclick='hide5()') A
+                p#container5.para
+                    | - Contact us to cancel your booking 24 hours prior to delivery. The booking amount of Rs.500 is non refundable.
+        .box
+            h2 Maintenance &amp; Security
+            .info
+                p Who is responsible in case of any damage to cycle?
+                button#btn6.button(onclick='hide6()') A
+                p#container6.para
+                    | - We expect you to take good care of the cycle. Wear and tear due to usage of the cycle is normal. In case of any physical damage to the cycle or any part, you will be charged for the same.
+            .info
+                p What do I do if I met with an accident?
+                button#btn7.button(onclick='hide7()') A
+                p#container7.para
+                    | - The very first thing is to make yourself safe. Please contact us immediately at +91 912346903 and we will guide you with the appropriate steps.
+        .box
+            h2 Return and Cancellation
+            .info
+                p I do not like the cycle on delivery.What should I do?
+                button#btn8.button(onclick='hide8()') A
+                p#container8.para
+                    | - We make sure you receive the cycle as promised. If there are any technical issues in the cycle, we will exchange it with another model. The delivery cost of the same will be on us. No rejection will be accepted on the basis of looks.
+            .info
+                p I wish to return my cyle before subscription period. Can I do?
+                button#btn9.button(onclick='hide9()') A
+                p#container9.para
+                    | - Yes, you can end your subscription anytime. In such a case, an equivalent amount for the used duration will be charged and the rest amount refunded. (Note - subscription amount for shorter duration are comparatively higher than longer duration)
