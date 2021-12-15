@@ -20,8 +20,9 @@ Technology learnt during this project:
 2. CSS
 3. Javascript
 4. NodeJs
-5. Express
-6. MongoDB
+5. Pug
+6. Express
+7. MongoDB
 ## Progress
 - [x] Creating Home page
 - [x] Creating Contact form with a database
