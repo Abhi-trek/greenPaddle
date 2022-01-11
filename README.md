@@ -1,7 +1,7 @@
 # greenPaddle
 ## Team name: Mighty Developers
 ## Team members
-* Harshil Shah - hvshah_b20@ce.vjti.ac.in
+* Harshil Shah - vharshilshah19052002@gmail.com [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/harshil-shah-6776a221b)
 * Chaitya Vora - cnvora_b20@ce.vjti.ac.in
 * Jinay Mehta - jrmehta_b20@ce.vjti.ac.in
 *  Abhishek Patingrao -itsabhi.rao@gmail.com [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/abhishekpatingrao/)
