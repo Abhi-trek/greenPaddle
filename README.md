@@ -27,8 +27,8 @@ Technology learnt during this project:
 - [x] Creating Home page
 - [x] Creating Contact form with a database
 - [x] Creating Add accessories page
-- [ ] Creating Places to explore page
-- [ ] Sending Emails to subscribers
+- [x] Creating Places to explore page
+- [x] Sending Emails to subscribers
 ## Project Setup
 * First of all you need to have nodeJs and mongoDB installed on your laptop.
 * Then you need to clone the repo to your laptop.
