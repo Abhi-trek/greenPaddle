@@ -5,6 +5,7 @@
 * Chaitya Vora - cnvora_b20@ce.vjti.ac.in
 * Jinay Mehta - jrmehta_b20@ce.vjti.ac.in
 *  Abhishek Patingrao -itsabhi.rao@gmail.com [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/abhishekpatingrao/)
+
 ## Mentors
 * Vaishnavi Shah
 * Siddharth Shah
