@@ -2,8 +2,8 @@
 ## Team name: Mighty Developers
 ## Team members
 * Harshil Shah - vharshilshah19052002@gmail.com [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/harshil-shah-6776a221b)
-* Chaitya Vora - cnvora_b20@ce.vjti.ac.in
-* Jinay Mehta - jrmehta_b20@ce.vjti.ac.in
+* Chaitya Vora - chaityavora02@gmail.com [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/chaitya-vora-90693b202)
+* Jinay Mehta - mehtajinay151@gmail.com [![LinkedIn Badge](https://www.linkedin.com/in/jinay-mehta-584590216)
 *  Abhishek Patingrao -itsabhi.rao@gmail.com [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/abhishekpatingrao/)
 
 ## Mentors
